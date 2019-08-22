@@ -2,7 +2,7 @@
 
 Three different scripts are included in the repo for automation of typical user tasks using the online commissioning managment platform cxalloy.com.
 
-# Bulk upload of functional test procedures
+# Bulk upload of pre-functional checklists
 This script automates the login and navigation process to prepare for the checklist file upload using the Selenium library and the chrome web dirver. Next the user is prompted for multiple file selection using Tkinter. Once the user selects files the program will loop through the process for upload, sorting and naming for each file in turn again using Selenium for browser automation for all user selected files.
 
 # Bulk upload of functional test procedures
